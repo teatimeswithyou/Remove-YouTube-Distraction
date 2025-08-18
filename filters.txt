@@ -1,7 +1,3 @@
-! Title: YouTube Cleaner Filters
-! Description: Custom uBlock Origin filters to remove Shorts, ads, comments, infinite scroll, and more from YouTube.
-! Homepage: https://github.com/YOUR_USERNAME/youtube-cleaner-filters
-! License: MIT
 ! Last updated: 2025-08-18
 
 

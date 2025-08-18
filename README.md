@@ -1,9 +1,10 @@
 # YouTube Cleaner Filters 
 
-A custom **uBlock Origin filter list** that removes Shorts, ads, comments, infinite scroll, and other distractions from YouTube.  
+A custom **uBlock Origin filter list** that removes Shorts, ads, comments, infinite scroll, and other distractions from YouTube.  You don't need another extension for it
 
 ## Features
 
+-  **You don't need another extension** to remove the youtube distracting  elements 
 -  Hide YouTube **Shorts** everywhere (homepage, sidebar, search, subscriptions, channels)  
 -  Remove **ads & promo banners**  
 -  Hide **comments section** and engagement junk  
@@ -14,45 +15,15 @@ A custom **uBlock Origin filter list** that removes Shorts, ads, comments, infin
 ## Installation
 
 
-
 Install [uBlock Origin](https://github.com/gorhill/uBlock).  
 
 
+Copy and paste the **filtes.txt** content in **My Filters** section of ublock origin and click apply changes. 
 
-## Option 1:
-
-Copy and paste the filtes.txt content in **My 
-Filters** section of ublock origin and click apply changes. 
-
-## Option 2:
-
-1. Open **Dashboard → Filter lists → Custom → Import**.
-
-2. Add this URL (replace with your repo’s raw link):  
-
-https://github.com/Trazer09/YouTube-Focus-Mode/filters.txt
-
-
-3. Click **Apply changes**.  
-
-Your YouTube will now be distraction-free ✅.  
-
-## Example Rules
-
-```txt
-! Hide all videos with the shorts indicator on the thumbnail
-www.youtube.com##ytd-grid-video-renderer:has([overlay-style="SHORTS"])
-
-! Remove masthead banner ad
-www.youtube.com###masthead-ad
-
-! Hide comments
-www.youtube.com###comments
-```
 
 
 ## Notes
 
 Some filters are commented out (! in front) so you can enable them manually.
 
-This list is actively maintained to keep up with YouTube’s UI changes.
+This list is actively maintained to keep up with YouTube’s UI changes. If you find this repository useful, feel free to star ⭐ it to show your support.

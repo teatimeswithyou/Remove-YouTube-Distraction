@@ -20,17 +20,20 @@ Install [uBlock Origin](https://github.com/gorhill/uBlock).
 
 Copy and paste the **filtes.txt** content in **My Filters** section of ublock origin and click apply changes. 
 
-## Want Extension ? 
-
-RYS — Remove YouTube Suggestions
-
-- [Firefox](https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-s-suggestions)
-- [Chrome](https://chrome.google.com/webstore/detail/remove-youtube-suggestion/cdhdichomdnlaadbndgmagohccgpejae)
-- [Github](https://github.com/lawrencehook/remove-youtube-suggestions)
-
 
 ## Notes
 
 Some filters are commented out (! in front) so you can enable them manually.
 
 This list is actively maintained to keep up with YouTube’s UI changes. If you find this repository useful, feel free to star ⭐ it to show your support.
+
+## Want Extension ? 
+
+RYS — Remove YouTube Suggestions
+
+- [Firefox](https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-s-suggestions)
+- [Chrome](https://chrome.google.com/webstore/detail/remove-youtube-suggestion/cdhdichomdnlaadbndgmagohccgpejae)
+- [Github](https://github.com/lawrencehook/remove-youtube-suggestions)    ( Show some love to him as well by starring his GitHub ⭐ )
+
+
+

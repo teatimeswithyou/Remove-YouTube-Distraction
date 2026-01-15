@@ -232,3 +232,6 @@ www.youtube.com##ytd-info-panel-container-renderer
 
 ! Search box dropdown
 youtube.com##.ytSearchboxComponentSuggestionsContainer
+
+! People also search for
+www.youtube.com##ytd-horizontal-card-list-renderer.ytd-item-section-renderer.style-scope

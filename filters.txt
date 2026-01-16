@@ -244,3 +244,6 @@ www.youtube.com###social-links
 
 ! Transcript - description
 www.youtube.com##ytd-video-description-transcript-section-renderer.ytd-structured-description-content-renderer.style-scope
+! Channel link in description
+www.youtube.com##ytd-video-description-infocards-section-renderer.ytd-structured-description-content-renderer.style-scope
+
